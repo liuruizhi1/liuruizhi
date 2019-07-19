@@ -1,0 +1,16 @@
+{
+  "name": "3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "01.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "art-template": "^4.13.2",
+    "ejs": "^2.6.2",
+    "express": "^4.17.1"
+  }
+}

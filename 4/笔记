@@ -1,0 +1,15 @@
+express
+基于node封装的上层服务框架
+核心：
+中间件   
+路由  
+提供api
+简单的路由实现
+路径不区分大小写
+app.get
+params  接受动态参数   /：id
+
+query  接收get传输过来的值   ？usrname=tom&&age=12
+静态资源服务器
+app.use() 使用    中间件    插件
+express。static()
